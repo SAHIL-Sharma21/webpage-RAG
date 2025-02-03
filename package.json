@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "name": "webpage_rag",
+  "version": "1.0.0",
+  "description": "A simple RAG chatbot which runs on every webpage to give user queries related to that particular website/webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "RAG",
+    "AI",
+    "LLMs",
+    "Vectors"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0"
+  }
+}
